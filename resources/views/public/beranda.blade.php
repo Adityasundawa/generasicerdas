@@ -125,7 +125,7 @@
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 pl-70">
                     <div class="s-about-img p-relative">
-                        <img src="{{url('/')}}/assets/img/founder/ichsan.png" alt="Gambar tentang kami">
+                        <img src="{{url('/')}}/assets/img/direktur/1.png" alt="Gambar tentang kami">
                     </div>
                     <div class="sinature-box">
                         <div class="c-icon mb-30"><img src="{{url('/')}}/assets/img/features/c-Icon.png" alt="Ikon Khusus"></div>

@@ -9,7 +9,7 @@
                 <div class="single-team text-center mb-30 ">
                     <div class="team-thumb">
                       <div class="brd">
-                            <img src="{{url('/')}}/assets/img/team/team_img01.jpg" alt="img">
+                        <img src="{{url('/')}}/assets/img/direktur/1.png" class="img" alt="Gambar tentang kami">
                         </div>
                     </div>
                     <div class="team-info">
@@ -28,7 +28,7 @@
                 <div class="single-team text-center mb-30 ">
                     <div class="team-thumb">
                         <div class="brd">
-                            <img src="{{url('/')}}/assets/img/team/team_img02.jpg" alt="img">
+                            <img src="{{url('/')}}/assets/img/direktur/2.png" class="img" alt="Gambar tentang kami">
                         </div>
                     </div>
                     <div class="team-info">
@@ -47,7 +47,7 @@
                 <div class="single-team text-center mb-30 ">
                     <div class="team-thumb">
                          <div class="brd">
-                            <img src="{{url('/')}}/assets/img/team/team_img03.jpg" alt="img">
+                            <img src="{{url('/')}}/assets/img/direktur/2.png" class="img" alt="Gambar tentang kami">
                         </div>
                     </div>
                     <div class="team-info">
@@ -67,7 +67,7 @@
                 <div class="single-team text-center mb-30 ">
                     <div class="team-thumb">
                          <div class="brd">
-                            <img src="{{url('/')}}/assets/img/team/team_img04.jpg" alt="img">
+                            <img src="{{url('/')}}/assets/img/direktur/2.png" class="img" alt="Gambar tentang kami">
                         </div>
                     </div>
                     <div class="team-info">
@@ -86,7 +86,7 @@
                 <div class="single-team text-center mb-30 ">
                     <div class="team-thumb">
                         <div class="brd">
-                            <img src="{{url('/')}}/assets/img/team/team_img01.jpg" alt="img">
+                            <img src="{{url('/')}}/assets/img/direktur/2.png" class="img" alt="Gambar tentang kami">
                         </div>
                     </div>
                     <div class="team-info">
@@ -105,7 +105,7 @@
                 <div class="single-team text-center mb-30 ">
                     <div class="team-thumb">
                         <div class="brd">
-                            <img src="{{url('/')}}/assets/img/team/team_img02.jpg" alt="img">
+                            <img src="{{url('/')}}/assets/img/direktur/2.png" class="img" alt="Gambar tentang kami">
                         </div>
                     </div>
                     <div class="team-info">
@@ -120,7 +120,6 @@
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 </section>
