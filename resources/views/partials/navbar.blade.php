@@ -35,7 +35,7 @@
         <div class="container">
             <div class="second-menu">
                 <div class="row align-items-center">
-                    <div class="col-xl-2 col-lg-2">
+                    <div class="col-xl-5 col-lg-5">
                         <div class="logo">
                             <a href="index.html"><img src="{{url('/')}}/assets/img/logo/logo.png" alt="logo"></a>
                         </div>
