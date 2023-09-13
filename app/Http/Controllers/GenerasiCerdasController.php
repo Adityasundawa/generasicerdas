@@ -4,7 +4,6 @@ namespace App\Http\Controllers;
 
 use App\Models\Relawan;
 use Illuminate\Http\Request;
-use RealRashid\SweetAlert\Facades\Alert;
 
 class GenerasiCerdasController extends Controller
 {
@@ -112,7 +111,7 @@ class GenerasiCerdasController extends Controller
         Relawan::create($request->all());
 
         // redirect ke halaman lain setelah menyimpan data
-        Alert::success('Selamat', 'Anda Berhasil Teregistrasi Menjadi Relawan!!');
+
         return redirect()->route('dashboard.registrasi')->with('success', 'Data relawan berhasil disimpan.');
 
     }
