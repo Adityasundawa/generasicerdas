@@ -35,6 +35,11 @@ Route::get('partner/count-dana', [GenerasiCerdasController::class, 'countDana'])
 
 Route::get('hubungi-kami', [GenerasiCerdasController::class, 'hubungiKami'])->name('dashboard.hubungikami');
 
+
+
+Route::post('/generasi-cerdas', [GenerasiCerdasController::class, 'store'])->name('generasi-cerdas.store');
+
+
 Route::middleware([
     'auth:sanctum',
     config('jetstream.auth_session'),

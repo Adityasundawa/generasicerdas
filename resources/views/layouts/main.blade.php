@@ -43,6 +43,7 @@
 	</style>
     </head>
     <body>
+
      <!-- header -->
 
      @include('partials.navbar')
@@ -203,6 +204,7 @@
         <script src="{{url('/')}}/assets/js/jquery.magnific-popup.min.js"></script>
         <script src="{{url('/')}}/assets/js/element-in-view.js"></script>
         <script src="{{url('/')}}/assets/js/main.js"></script>
+        @include('sweetalert::alert')
     </body>
 
 </html>
