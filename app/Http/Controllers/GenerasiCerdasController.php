@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Relawan;
 use Illuminate\Http\Request;
 
+
 class GenerasiCerdasController extends Controller
 {
     public function beranda()
@@ -111,7 +112,6 @@ class GenerasiCerdasController extends Controller
         Relawan::create($request->all());
 
         // redirect ke halaman lain setelah menyimpan data
-
         return redirect()->route('dashboard.registrasi')->with('success', 'Data relawan berhasil disimpan.');
 
     }
