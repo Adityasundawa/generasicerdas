@@ -110,7 +110,7 @@
                     </div>
                     <div class="team-info">
                         <h4>Alina Roboto</h4>
-                        <span>Web Developer</span>
+                        <span>Web Developerds</span>
                         <div class="team-social mt-15">
                             <p>Nullam rutrum vel massa vitae luctus ullam lacinia diam in velit ullamcorper.</p>
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
