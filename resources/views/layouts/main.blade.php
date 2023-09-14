@@ -39,6 +39,9 @@
     width: 500px;
     height: 100px;
 }
+.leaflet-control{
+    visibility: hidden;
+}
 	</style>
     </head>
     <body>
