@@ -57,11 +57,7 @@
 
 
 
-        fetch("https://pilkada.rekapitung.id/geojson/tangsel.json").then(response => response.json())
-            .then(json => {
-                console.log(json.features)
-                L.geoJSON(json.features[7]).addTo(map);
-            });
+        
         let i = 0;
         var baseLayers = {
             "Track": streets,
