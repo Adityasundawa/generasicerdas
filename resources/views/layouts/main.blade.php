@@ -35,6 +35,10 @@
 			max-width: 100%;
 			max-height: 100%;
 		}
+        .leaflet-popup-content {
+    width: 500px;
+    height: 100px;
+}
 	</style>
     </head>
     <body>
@@ -73,7 +77,7 @@
                 <div class="container">
                     <div class="row justify-content-between">
 
-                        <div class="col-xl-3 col-lg-3 col-sm-6">
+                        <div class="col-xl-9 col-lg-9 col-sm-6">
                             <div class="footer-widget mb-30">
                                 <div class="f-widget-title">
                                     <h5>Contact Us</h5>
@@ -83,15 +87,15 @@
                                     <ul>
                                     <li>
                                         <i class="icon far fa-clock"></i>
-                                        <span>1800-121-3637<br>+91 555 234-8765</span>
+                                        <span>(0251) 7532444</span>
                                     </li>
                                     <li>
                                         <i class="icon dripicons-mail"></i>
-                                         <span><a href="{{url('/')}}/assets/mailto:info@example.com">info@example.com</a><br><a href="{{url('/')}}/assets/mailto:sale@example.com">sale@example.com</a></span>
+                                         <span><a href="{{url('/')}}/assets/mailto:admin@generasicerdasindonesia.org">admin@generasicerdasindonesia.org</a><br><a href="{{url('/')}}/assets/mailto:sale@example.com">sale@example.com</a></span>
                                     </li>
                                     <li>
                                       <i class="fal fa-map-marker-alt"></i>
-                                         <span>380 St Kilda Road, Melbourne<br>VIC 3004, Australia</span>
+                                         <span>Jalan Perum Taman Sari Persada Blok G7 No. 2, Cibadak, Tanah Sereal, <br>RT.01/RW.15, Cibadak, Bogor, Kota Bogor, Jawa Barat 16166</span>
                                     </li>
                                 </ul>
 
@@ -101,59 +105,8 @@
                                 </div>
                             </div>
                         </div>
-						<div class="col-xl-2 col-lg-2 col-sm-6">
-                            <div class="footer-widget mb-30">
-                                <div class="f-widget-title">
-                                    <h5>Our Links</h5>
-                                </div>
-                                <div class="footer-link">
-                                    <ul>
-                                        <li><a href="{{url('/')}}/assets/#"><i class="fas fa-chevron-right"></i> Partners</a></li>
-										<li><a href="{{url('/')}}/assets/#"><i class="fas fa-chevron-right"></i> About Us</a></li>
-                                        <li><a href="{{url('/')}}/assets/#"><i class="fas fa-chevron-right"></i> Career</a></li>
-                                        <li><a href="{{url('/')}}/assets/#"><i class="fas fa-chevron-right"></i> Reviews</a></li>
-                                        <li><a href="{{url('/')}}/assets/#"><i class="fas fa-chevron-right"></i> Terms & Conditions</a></li>
-                                        <li><a href="{{url('/')}}/assets/#"><i class="fas fa-chevron-right"></i> Help</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-2 col-lg-2 col-sm-6">
-                            <div class="footer-widget mb-30">
-                                <div class="f-widget-title">
-                                    <h5>Other Links</h5>
-                                </div>
-                                <div class="footer-link">
-                                    <ul>
-                                        <li><a href="{{url('/')}}/assets/#"><i class="fas fa-chevron-right"></i> Home</a></li>
-                                        <li><a href="{{url('/')}}/assets/#"><i class="fas fa-chevron-right"></i> About Us</a></li>
-                                        <li><a href="{{url('/')}}/assets/#"><i class="fas fa-chevron-right"></i> Services</a></li>
-                                        <li><a href="{{url('/')}}/assets/#"><i class="fas fa-chevron-right"></i> Project</a></li>
-                                        <li><a href="{{url('/')}}/assets/#"><i class="fas fa-chevron-right"></i> Our Team</a></li>
-                                        <li><a href="{{url('/')}}/assets/#"><i class="fas fa-chevron-right"></i> Latest Blog</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-5 col-lg-5 col-sm-6">
-                            <div class="footer-widget mb-30">
-                                <div class="f-widget-title">
-                                    <h5>Our Gallery</h5>
-                                </div>
-                                <div class="f-insta">
-                                    <ul>
-                                        <li><a href="{{url('/')}}/assets/#"><img src="{{url('/')}}/assets/img/instagram/f-galler-01.png" alt="img"></a></li>
-                                        <li><a href="{{url('/')}}/assets/#"><img src="{{url('/')}}/assets/img/instagram/f-galler-02.png" alt="img"></a></li>
-                                        <li><a href="{{url('/')}}/assets/#"><img src="{{url('/')}}/assets/img/instagram/f-galler-03.png" alt="img"></a></li>
-                                        <li><a href="{{url('/')}}/assets/#"><img src="{{url('/')}}/assets/img/instagram/f-galler-04.png" alt="img"></a></li>
-                                        <li><a href="{{url('/')}}/assets/#"><img src="{{url('/')}}/assets/img/instagram/f-galler-05.png" alt="img"></a></li>
-                                        <li><a href="{{url('/')}}/assets/#"><img src="{{url('/')}}/assets/img/instagram/f-galler-06.png" alt="img"></a></li>
-                                        <li><a href="{{url('/')}}/assets/#"><img src="{{url('/')}}/assets/img/instagram/f-galler-07.png" alt="img"></a></li>
-                                        <li><a href="{{url('/')}}/assets/#"><img src="{{url('/')}}/assets/img/instagram/f-galler-08.png" alt="img"></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+
+
 
                     </div>
                 </div>
@@ -162,7 +115,7 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-7">
-                                &copy; 2020 Finco  All design Zcube.
+                                &copy; 2023 Generasi Cerdas Indonesia.
                         </div>
                         <div class="col-4">
                             <div class="footer-social">

@@ -1,5 +1,5 @@
 <header class="header-area">
-    <div class="header-top second-header d-none d-md-block">
+    {{-- <div class="header-top second-header d-none d-md-block">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-8 d-none d-md-block">
@@ -7,12 +7,9 @@
                         <ul>
                             <li>
                                 <i class="icon dripicons-mail"></i>
-                                <span>info@example.com</span>
+                                <span>admin@generasicerdasindonesia.org</span>
                             </li>
-                            <li>
-                                <i class="icon far fa-clock"></i>
-                                <span>Sen - Sab 8:00 - 18:00. Minggu TUTUP</span>
-                            </li>
+
                         </ul>
                     </div>
                 </div>
@@ -30,7 +27,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <div id="header-sticky" class="menu-area">
         <div class="container">
             <div class="second-menu">
