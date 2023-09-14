@@ -225,7 +225,6 @@
                                                 <span class="text-danger">{{ $errors->first('no_telpon') }}</span>
                                             </div>
                                         </div>
-
                                         <div class="col-lg-12">
                                             <div class="contact-field p-relative c-name mb-20">
                                                 <label for="minat_bakat">Minat dan Bakat</label>
