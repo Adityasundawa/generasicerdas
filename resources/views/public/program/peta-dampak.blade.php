@@ -21,7 +21,7 @@
         var text589 = '<div class="row"><div class="col-4"><img src="' +
             'https://cdn-icons-png.flaticon.com/512/149/149071.png' + '" class="' + 'img-fluid' +
             '"  width="500px" height="auto" /></div>   <div class="col-8"><table>' + '<tr><td>Nama</td><td>:</td><td>' +
-            'Isa Setiawan' + '</td></tr>' + '<tr><td>Email</td><td>:</td><td>' + 'setiawanisa@gmail.com' + '</td></tr>' +
+            'Taqaufa Sadiid Priya Prasetyo' + '</td></tr>' + '<tr><td>Email</td><td>:</td><td>' + 'Taqaufa@gmail.com' + '</td></tr>' +
             '<tr><td>Nomor</td><td>:</td><td>' + '081252936620' + '</td></tr>' +
             '</table></div> </div>';
         L.marker([-6.2128128, 106.8793856]).bindPopup(text589).addTo(cities);
@@ -57,7 +57,7 @@
 
 
 
-        
+
         let i = 0;
         var baseLayers = {
             "Track": streets,
