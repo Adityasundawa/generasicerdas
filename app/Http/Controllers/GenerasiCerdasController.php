@@ -5,7 +5,6 @@ namespace App\Http\Controllers;
 use App\Models\Relawan;
 use Illuminate\Http\Request;
 
-
 class GenerasiCerdasController extends Controller
 {
     public function beranda()
@@ -59,6 +58,7 @@ class GenerasiCerdasController extends Controller
     public function daftarRelawan()
     {
         $data['title'] = 'Daftar Relawan';
+        $data['relawan'] = Relawan::where('role','Relawan')->get();
         return view('public.relawan.daftar', $data);
     }
 
@@ -76,13 +76,14 @@ class GenerasiCerdasController extends Controller
 
     public function logoPTCSR()
     {
-        $data['title'] = 'Logo PT CSR';
+        $data['title'] = 'Daftar Donatur (Badan)';
         return view('public.partner.logo-pt-csr', $data);
     }
 
     public function daftarDonatur()
     {
-        $data['title'] = 'Daftar Donatur';
+        $data['title'] = 'Daftar Donatur (Perorangan)';
+        $data['donatur'] = Relawan::where('role','donatur')->get();
         return view('public.partner.daftar-donatur', $data);
     }
 
@@ -101,18 +102,56 @@ class GenerasiCerdasController extends Controller
     {
         // validasi input
         $request->validate([
-            'nik' => 'required|unique:relawans',
+            'nik' => 'required|unique:relawans,nik',
             'nama' => 'required',
             'alamat' => 'required',
-            'email' => 'required|email|unique:relawans',
+            'email' => 'required|email|unique:relawans,email',
             'jenis_kelamin' => 'required|in:Laki-laki,Perempuan',
+            'tanggal_lahir' => 'required|date',
+            'kewarganegaraan' => 'required',
+            'agama' => 'required',
+            'no_telpon' => 'required',
+            'minat_bakat' => '',
+            'foto' => 'image|mimes:jpeg,png,jpg,gif|max:2048',
         ]);
 
+        if($request->file('foto')){
+            $fotoPath = $request->file('foto');
+            $fotoName = $fotoPath->getClientOriginalName();
+            $fotoPath->move('img/foto',$fotoPath->getClientOriginalName());
+        }else{
+            $fotoName  = 'NULL';
+        }
+
+
         // menyimpan data ke database
-        Relawan::create($request->all());
+        $relawan = new Relawan([
+            'nik' => $request->input('nik'),
+            'nama' => $request->input('nama'),
+            'alamat' => $request->input('alamat'),
+            'email' => $request->input('email'),
+            'jenis_kelamin' => $request->input('jenis_kelamin'),
+            'tanggal_lahir' => $request->input('tanggal_lahir'),
+            'kewarganegaraan' => $request->input('kewarganegaraan'),
+            'agama' => $request->input('agama'),
+            'no_telpon' => $request->input('no_telpon'),
+            'minat_bakat' => $request->input('minat_bakat'),
+            'foto' => $fotoName, // Nama berkas foto yang telah diunggah
+            'role' => $request->input('role'),
+        ]);
+
+        $relawan->save();
 
         // redirect ke halaman lain setelah menyimpan data
-        return redirect()->route('dashboard.registrasi')->with('success', 'Data relawan berhasil disimpan.');
+        if( $request->input('role') == "Relawan"){
+            return redirect()
+            ->route('dashboard.registrasi')
+            ->with('success', 'Data relawan berhasil disimpan.');
+        }else  if( $request->input('role') == "Donatur"){
+            return redirect()
+            ->route('dashboard.registrasi')
+            ->with('success', 'Data Donatur berhasil disimpan.');
+        }
 
     }
 }

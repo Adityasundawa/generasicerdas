@@ -47,7 +47,7 @@
                                 <ul>
                                     <li><a href="{{ route('dashboard.beranda') }}">Beranda</a></li>
                                     <li class="has-sub">
-                                        <a href="{{ route('dashboard.tentangkami') }}">Tentang Kami</a>
+                                        <a href="#">Tentang Kami</a>
                                         <ul>
                                             <li><a href="{{ route('dashboard.history') }}">History</a></li>
                                             <li><a href="{{ route('dashboard.visimisi') }}">Visi Misi</a></li>
@@ -55,24 +55,24 @@
                                         </ul>
                                     </li>
                                     <li class="has-sub">
-                                        <a href="{{ route('dashboard.program') }}">Program</a>
+                                        <a href="#">Program</a>
                                         <ul>
                                             <li><a href="{{ route('dashboard.petadampak') }}">Peta Dampak</a></li>
                                         </ul>
                                     </li>
                                     <li class="has-sub">
-                                        <a href="{{ route('dashboard.relawan') }}">Relawan</a>
+                                        <a href="#">Relawan</a>
                                         <ul>
                                             <li><a href="{{ route('dashboard.daftarrelawan') }}">Daftar Relawan</a></li>
                                             <li><a href="{{ route('dashboard.registrasi') }}">Registrasi</a></li>
                                         </ul>
                                     </li>
                                     <li class="has-sub">
-                                        <a href="{{ route('dashboard.partner') }}">Partner</a>
+                                        <a href="#">Partner</a>
                                         <ul>
-                                            <li><a href="{{ route('dashboard.logoptcsr') }}">Logo PT/CSR</a></li>
-                                            <li><a href="{{ route('dashboard.daftardonatur') }}">Daftar Donatur</a></li>
-                                            <li><a href="{{ route('dashboard.countdana') }}">Count Jumlah Dana</a></li>
+                                            <li><a href="{{ route('dashboard.logoptcsr') }}">Daftar Donatur (Badan)</a></li>
+                                            <li><a href="{{ route('dashboard.daftardonatur') }}">Daftar Donatur  (Perorangan)</a></li>
+                                            <li><a href="{{ route('dashboard.countdana') }}">Jumlah Dana</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="{{ route('dashboard.hubungikami') }}">Hubungi Kami</a></li>

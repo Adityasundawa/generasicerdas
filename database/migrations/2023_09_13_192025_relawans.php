@@ -18,6 +18,13 @@ return new class extends Migration
             $table->text('alamat');
             $table->string('email')->unique();
             $table->enum('jenis_kelamin', ['Laki-laki', 'Perempuan']);
+            $table->date('tanggal_lahir'); // Tanggal lahir
+            $table->string('kewarganegaraan'); // Kewarganegaraan
+            $table->string('agama'); // Agama
+            $table->string('no_telpon'); // Nomor telepon
+            $table->string('minat_bakat')->nullable(); // Minat dan bakat
+            $table->string('foto')->nullable(); // Nama berkas foto (disimpan secara terpisah)
+            $table->enum('role', ['Donatur', 'Relawan']);
             $table->timestamps();
         });
     }

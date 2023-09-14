@@ -35,11 +35,6 @@
 			max-width: 100%;
 			max-height: 100%;
 		}
-        .card-img-custom {
-    height: 200px;  /* You can set this to any desired height */
-    width: 100%;
-    object-fit: cover;
-}
 	</style>
     </head>
     <body>
@@ -204,6 +199,31 @@
         <script src="{{url('/')}}/assets/js/jquery.magnific-popup.min.js"></script>
         <script src="{{url('/')}}/assets/js/element-in-view.js"></script>
         <script src="{{url('/')}}/assets/js/main.js"></script>
+
+
+
+    <script>
+        $(document).ready(function() {
+            // Sembunyikan form minat_bakat dan foto saat halaman dimuat
+            $("#relawan_card, #donatur_card").hide();
+
+            // Ketika radio button "Donatur" dipilih
+            $("#donatur").on("click", function() {
+                // Sembunyikan form minat_bakat dan foto
+                $("#relawan_card").hide();
+                $("#donatur_card").show();
+                $("#donatur, #relawan,#jenis").hide();
+            });
+
+            // Ketika radio button "Relawan" dipilih
+            $("#relawan").on("click", function() {
+                // Tampilkan form minat_bakat dan foto
+                $("#donatur_card").hide();
+                $("#relawan_card").show();
+                $("#donatur, #relawan,#jenis").hide();
+            });
+        });
+    </script>
     </body>
 
 </html>
