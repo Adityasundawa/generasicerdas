@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\AdminController;
 use App\Http\Controllers\GenerasiCerdasController;
 use Illuminate\Support\Facades\Route;
 
@@ -45,7 +46,8 @@ Route::middleware([
     config('jetstream.auth_session'),
     'verified',
 ])->group(function () {
-    Route::get('/dashboard', function () {
-        return view('dashboard');
-    })->name('dashboard');
+
+Route::get('/dashboard', [AdminController::class, 'index'])->name('dashboard');
+
+
 });

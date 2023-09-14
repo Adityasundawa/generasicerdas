@@ -93,8 +93,15 @@
                                         <div class="col-lg-12">
                                             <div class="contact-field p-relative c-name mb-20">
                                                 <label for="agama">Agama</label>
-                                                <input required type="text" id="agama" name="agama"
-                                                    placeholder="Masukkan Agama Anda">
+                                                <select id="agama" class="form-control" name="agama">
+                                                    <option value="Islam">Islam</option>
+                                                    <option value="Kristen">Kristen</option>
+                                                    <option value="Katolik">Katolik</option>
+                                                    <option value="Hindu">Hindu</option>
+                                                    <option value="Buddha">Buddha</option>
+                                                    <option value="Konghucu">Konghucu</option>
+                                                    <!-- Tambahkan lebih banyak agama yang umum di Indonesia sesuai kebutuhan -->
+                                                </select>
                                                 <span class="text-danger">{{ $errors->first('agama') }}</span>
                                             </div>
                                         </div>
@@ -197,8 +204,15 @@
                                         <div class="col-lg-12">
                                             <div class="contact-field p-relative c-name mb-20">
                                                 <label for="agama">Agama</label>
-                                                <input required type="text" id="agama" name="agama"
-                                                    placeholder="Masukkan Agama Anda">
+                                                <select id="agama" class="form-control" name="agama">
+                                                    <option value="Islam">Islam</option>
+                                                    <option value="Kristen">Kristen</option>
+                                                    <option value="Katolik">Katolik</option>
+                                                    <option value="Hindu">Hindu</option>
+                                                    <option value="Buddha">Buddha</option>
+                                                    <option value="Konghucu">Konghucu</option>
+                                                    <!-- Tambahkan lebih banyak agama yang umum di Indonesia sesuai kebutuhan -->
+                                                </select>
                                                 <span class="text-danger">{{ $errors->first('agama') }}</span>
                                             </div>
                                         </div>
