@@ -1,4 +1,4 @@
-<section class="breadcrumb-area d-flex align-items-center" style="background-image:url(https://www.worldbank.org/content/dam/photos/780x439/2021/may-4/Indonesia-ocean-story--4-.jpeg);">
+<section class="breadcrumb-area d-flex align-items-center" style="background-image:url(https://storage.googleapis.com/ind-mengajar/images/slide/rekrutmen-pm-26.jpg?ver=20230913);">
     <div class="container">
         <div class="row">
             <div class="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2">
