@@ -26,6 +26,31 @@
                         <p>Kegiatan berbagi secara informal ini berlanjut hingga pandemi mendera Indonesia, pada tahun 2021 bulan Sept, Taqaufa mendapatkan undangan berbagi kepada komunitas remaja di Jakarta melalui media online bersama peraih medali emas panahan berkuda dengan tema "How to focus your dream". Berbagi hal-hal positif, menebar kebaikan serta semangat kepada rekan-rekan lainnya secara lebih luas membuat Taqaufa semakin semangat untuk melanjutkan dan berkeinginan untuk membuat media yang lebih formal sehingga bisa memberikan dampak yang lebih luas kepada lebih banyak anak-anak di Indonesia.</p>
 
                         <p>Hal inilah yang menjadi tonggak awal komunitas/organisasi yang bernama “Generasi Cerdas Indonesia”, Taqaufa sebagai founder mengandeng Adik kandungnya yang bernama Ghazi Prasetyo serta M.Ichsan Elfaras Sofiandi sebagai Co-Founder yang memiliki mimpi yang sama di mulai pada akhir tahun 2021, dan secara legalitas diterbitkan pada pertengahan 2023.</p>
+
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <img class="img" src="{{url('/')}}/assets/img/sejarah/1.jpeg" alt="" srcset="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <img class="img" src="{{url('/')}}/assets/img/sejarah/2.jpeg" alt="" srcset="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <img class="img" src="{{url('/')}}/assets/img/sejarah/3.jpeg" alt="" srcset="">
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
                     </div>
                 </div>
 
@@ -63,7 +88,7 @@
         </div>
 
         <!-- Load More Option -->
-        
+
     </div>
 </section>
 

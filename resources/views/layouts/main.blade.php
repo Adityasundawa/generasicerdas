@@ -36,8 +36,8 @@
 			max-height: 100%;
 		}
         .leaflet-popup-content {
-    width: 500px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
 }
 .leaflet-control{
     visibility: hidden;
@@ -64,12 +64,12 @@
                     <div class="row align-items-center">
                         <div class="col-lg-8">
                             <div class="section-title">
-                                <h2> Have A Great Opportunity To Manage Your Finance Services</h2>
+                                <h2> Tidak ada kekuatan yang lebih besar dalam membangun kedaulatan bangsa daripada pengetahuan yang diperoleh melalui pendidikan.</h2>
 
                             </div>
                         </div>
                          <div class="col-lg-4">
-                            <a href="{{url('/')}}/assets/#" class="btn">Make Your Appointment</a>
+                            <a href="{{route('dashboard.registrasi')}}" class="btn">Register</a>
                         </div>
                     </div>
                 </div>
