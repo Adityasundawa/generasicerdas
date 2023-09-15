@@ -23,7 +23,7 @@
                         $i = 1;
                          ?>
                         <tr>
-                            <th scope="row">{{ $i++ }}</th>
+                            <th scope="row">{{ $item['id'] }}</th>
                             <td>{{$item['nama']}}</td>
                             <td>{{$item['alamat']}}</td>
                           </tr>
