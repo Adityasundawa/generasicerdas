@@ -17,13 +17,15 @@
                       </tr>
                     </thead>
                     <tbody>
-
-                        @foreach ($relawan as $item)
                         <?php
                         $i = 1;
                          ?>
+                        @foreach ($relawan as $item)
+                        <?php
+                        $i;
+                         ?>
                         <tr>
-                            <th scope="row">{{ $item['id'] }}</th>
+                            <th scope="row">{{ $i++ }}</th>
                             <td>{{$item['nama']}}</td>
                             <td>{{$item['alamat']}}</td>
                           </tr>
