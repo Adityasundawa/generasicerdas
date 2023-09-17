@@ -6,7 +6,7 @@
 <section class="project-detail">
     <div class="container">
         <!-- Upper Box -->
-       
+
         <!-- Lower Content -->
         <div class="lower-content">
             <div class="row">
@@ -14,7 +14,6 @@
                     <div class="inner-column">
                         <h2>Visi</h2>
                         <p>"Menjadi agen perubahan dalam menciptakan masyarakat yang lebih berpengetahuan, berdaya saing, dan berkesempatan, melalui pendidikan yang terjangkau dan berkualitas."</p>
-
                         <h3>Misi</h3>
                         <ul class="list-style-one">
                             <li>Memberikan akses pendidikan berkualitas secara gratis kepada semua lapisan masyarakat, tanpa memandang latar belakang ekonomi atau sosial.</li>
@@ -33,6 +32,30 @@
                         <h3>Informasi Tambahan</h3>
                         <p>Informasi tentang organisasi atau informasi tambahan lainnya.</p>
                         <!-- You can add more information here as needed -->
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <h2>Organisasi Model</h2>
+                 </div>
+
+                 <div class="col-lg-6">
+                        <div class="col-lg-6">
+                    <h2>Presentase</h2>
+                 </div>
+                 </div>
+                <div class="col-lg-6">
+                   <img src="{{url('')}}/assets/img/cgi/organisasi_model.png" class="img" alt="">
+                </div>
+                <div class="col-lg-6">
+                    <img src="{{url('')}}/assets/img/cgi/presentase.png" class="img" alt="">
+                </div>
+                <div class="col-lg-6"></div>
+                <div class="col-lg-6">
+                    <div class="single-counter ">
+                        <div class="counter p-relative text-center">
+                            <div class="count-rp">Rp.</div><span class="count">76000000</span><small>+</small>
+                        </div>
+
                     </div>
                 </div>
             </div>

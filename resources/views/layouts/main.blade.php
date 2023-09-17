@@ -7,7 +7,7 @@
         <title>Generasi Cerdas Indonesia - {{$title}}</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="shortcut icon" type="image/x-icon" href="{{url('/')}}/assets/img/favicon.ico">
+		<link rel="shortcut icon" type="image/x-icon" href="{{url('/')}}/assets/img/vicon.png">
         <!-- Place favicon.ico in the root directory -->
 
 		<!-- CSS here -->
@@ -41,6 +41,15 @@
 }
 .leaflet-control{
     visibility: hidden;
+}
+.count-rp {
+    font-size: 35px;
+    color: #f3525a;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    margin-bottom: 13px;
+    line-height: 1;
+    display: inline-block;
 }
 	</style>
     </head>

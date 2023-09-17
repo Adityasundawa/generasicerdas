@@ -2,6 +2,18 @@
 
 @section('content')
     @include('partials.breadcrumb-area')
+    <section class="services-area testimonial-p pt-95 pb-70 fix">
+        <div class="container">
+            <div class="row">
+
+                <img src="{{ url('/') }}/assets/img/cgi/diagram.png"
+                    style="width:  2000px; height: auto; position: relative; outline-style: none;" class="img"
+                    alt="" srcset="">
+                <h2>Target jangkauan dan dampak kerja Generasi Cerdas Indonesia</h2>
+            </div>
+
+        </div>
+    </section>
     <section id="about" class="about-area about-p pt-100 pb-160 p-relative">
         <div class="container">
             <div class="card mg-b-20"style="display:block">
