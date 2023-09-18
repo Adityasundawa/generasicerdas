@@ -20,12 +20,11 @@
                     <div class="cardmt-3">
                         <div class="card-body">
                        <center>       <img src="{{ url('') }}/assets/img/cgi/presentase.png"></center>
-                            <div class="single-counter ">
-                                <div class="counter p-relative text-center">
-                                    <div class="count-rp">Rp.</div><span class="count">76000000</span><small>+</small>
-                                </div>
-
-                            </div>
+                       <div class="single-counter">
+                        <div class="counter p-relative text-center">
+                            <div class="count-rp">Rp.</div><span class="count">76,000,000</span><small>+</small>
+                        </div>
+                    </div>
                         </div>
 
                     </div>

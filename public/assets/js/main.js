@@ -120,7 +120,7 @@ $('.services-active').slick({
 		}
 	]
 });
-    
+
     // team-active
 $('.team-active').slick({
 	dots: true,
@@ -293,7 +293,7 @@ $('.slider-nav').slick({
   dots:false,
   arrows:true,
   centerMode: true,
-  focusOnSelect: true, 
+  focusOnSelect: true,
   variableWidth:true,
     prevArrow: '<button type="button" class="slick-prev"><i class="fas fa-arrow-left"></i></button>',
 	nextArrow: '<button type="button" class="slick-next"><i class="fas fa-arrow-right"></i></button>',
@@ -332,7 +332,7 @@ $('.home-blog-active').slick({
 		}
 	]
 });
-    
+
 // blog
 $('.blog-active').slick({
 	dots: false,
@@ -348,10 +348,18 @@ $('.blog-active').slick({
 
 // counterUp
 
-$('.count').counterUp({
-	delay: 100,
-	time: 1000
+$('.count').each(function () {
+    $('.count').counterUp({
+        delay: 100,
+        time: 1000,
+        formatter: function (n) {
+            return n.replace(/,/g, ''); // Menghilangkan koma ribuan untuk menghindari NaN
+        }
+    });
 });
+
+
+
 
 /* magnificPopup img view */
 $('.popup-image').magnificPopup({
@@ -413,7 +421,7 @@ $.scrollUp({
 	// filter items on button click
 	$('.button-group').on('click', 'button', function () {
 		var filterValue = $(this).attr('data-filter');
-		$grid.isotope({ filter: filterValue });		
+		$grid.isotope({ filter: filterValue });
 	});
 
 });
@@ -435,13 +443,13 @@ $('.button-group > button').on('click', function(event) {
 
 // WOW active
 new WOW().init();
-    
+
 //Tabs Box
 	if($('.tabs-box').length){
 		$('.tabs-box .tab-buttons .tab-btn').on('click', function(e) {
 			e.preventDefault();
 			var target = $($(this).attr('data-tab'));
-			
+
 			if ($(target).is(':visible')){
 				return false;
 			}else{
