@@ -76,7 +76,7 @@
                     </div>
                     <div class="team-info">
                         <h4>Latasha Kirsty Wijaya</h4>
-                        <span>Web Designer</span>
+                        <span>Pengajar</span>
                         <div class="team-social mt-15">
                             <p><strong>Minat Bakat:</strong> <br>Matematika,Bahasa Inggris,Bahasa Indonesia</p>
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
