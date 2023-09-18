@@ -14,6 +14,7 @@
                         <th scope="col">#</th>
                         <th scope="col">Nama</th>
                         <th scope="col">Alamat</th>
+                        <th scope="col">Minat & Bakat</th>
                       </tr>
                     </thead>
                     <tbody>
@@ -28,9 +29,9 @@
                             <th scope="row">{{ $i++ }}</th>
                             <td>{{$item['nama']}}</td>
                             <td>{{$item['alamat']}}</td>
+                            <td>{!!$item['minat_bakat']!!}</td>
                           </tr>
                         @endforeach
-
                     </tbody>
                   </table>
             </div>
