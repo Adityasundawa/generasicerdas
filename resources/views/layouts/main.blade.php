@@ -89,7 +89,7 @@
                 <div class="container">
                     <div class="row justify-content-between">
 
-                        <div class="col-xl-9 col-lg-9 col-sm-6">
+                        <div class="col-xl-12 col-lg-12 col-sm-12">
                             <div class="footer-widget mb-30">
                                 <div class="f-widget-title">
                                     <h5>Contact Us</h5>
@@ -107,7 +107,7 @@
                                     </li>
                                     <li>
                                       <i class="fal fa-map-marker-alt"></i>
-                                         <span>Jalan Perum Taman Sari Persada Blok G7 No. 2, Cibadak, Tanah Sereal, <br>RT.01/RW.15, Cibadak, Bogor, Kota Bogor, Jawa Barat 16166</span>
+                                         <span>Taman Sari Persada, B1 No 2B, Bogor 16166</span>
                                     </li>
                                 </ul>
 

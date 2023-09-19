@@ -58,7 +58,7 @@
                             <div class="glyph-icon flaticon-agreement"></div>
                         </div>
                         <div class="second-services-content">
-                            <h5><a href="#">Ambil Peran Melalui Iuran Publik</a></h5>
+                            <h5><a href="#">Ambil Peran Melalui Donasi Publik</a></h5>
                             <p>Kami percaya, peran dalam pendidikan adalah milik semua orang. Ambil bagianmu dengan bekerja dan bergabung bersama!                                .</p>
                             <a href="#" class="btn2 mt-20">Read More <i class="fas fa-chevron-right"></i></a>
                         </div>
