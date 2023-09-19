@@ -103,7 +103,7 @@
                                     </li>
                                     <li>
                                         <i class="icon dripicons-mail"></i>
-                                         <span><a href="{{url('/')}}/assets/mailto:admin@generasicerdasindonesia.org">admin@generasicerdasindonesia.org</a><br><a href="{{url('/')}}/assets/mailto:sale@example.com">sale@example.com</a></span>
+                                         <span><a href="{{url('/')}}/assets/mailto:admin@generasicerdasindonesia.org">admin@generasicerdasindonesia.org</a></span>
                                     </li>
                                     <li>
                                       <i class="fal fa-map-marker-alt"></i>
