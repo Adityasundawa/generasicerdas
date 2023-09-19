@@ -483,7 +483,7 @@ border: 1px solid #f3525a;
     z-index: 1;
     cursor: pointer;
     transition: .3s;
-    
+
 }
  .slider-active .slick-dots li.slick-active button {
     width: 50px;
@@ -879,7 +879,7 @@ border: 1px solid #f3525a;
 	padding-right: 50px;
 }
 .btn.ss-btn {
-	background:#3763eb;	
+	background:#3763eb;
 	color:#fff;
 }
 .btn.ss-btn:hover {background: #f3525a;
@@ -1260,7 +1260,7 @@ padding: 30px 30px;
 border: none;
 margin-bottom: 30px;
 border-radius: 0;
-  
+
 }
 .services-two .s-single-services{
     float: left;
@@ -1383,7 +1383,7 @@ border-radius: 10px;
 .video-img {
 	position: relative;
 	overflow: hidden;
-	z-index: 1;   
+	z-index: 1;
 }
 .video-img img{
     width: 100%;
@@ -1673,7 +1673,7 @@ border-radius: 10px;
     cursor: pointer;
     background: no-repeat;
     transition: .3s;
-    
+
 }
  .team-active .slick-dots li.slick-active button {
 }
@@ -1751,8 +1751,8 @@ line-height: 30px;
     width: 100%;
 }
 .single-team:hover .team-thumb .brd {
-    
-     border: 1px solid #f3525a2B;      
+
+     border: 1px solid #f3525a2B;
 }
 .single-team:hover .team-thumb .brd::before,.single-team:hover .team-thumb .brd::after{
     color: #f3525a;
@@ -1880,6 +1880,25 @@ width: 85%;
 	position: relative;
 	font-family: 'Rubik', sans-serif;
 }
+
+
+.count-dana {
+	font-size: 35px;
+	color: #f3525a;
+	font-family: 'Rubik', sans-serif;
+	font-weight: 500;
+	margin-bottom: 13px;
+	line-height: 1;
+	display: inline-block;
+}
+.counter-dana small {
+	font-size: 35px;
+	font-weight: 500;
+	color: #f3525a;
+	line-height: 1;
+	position: relative;
+	font-family: 'Rubik', sans-serif;
+}
 .single-counter p {
 font-size: 16px;
 margin-bottom: 0;
@@ -1961,7 +1980,7 @@ margin-bottom: 0;
 }
 /* 14. testimonial */
 .testimonial-area h2,.testimonial-area p{
-	
+
 }
 .ta-bg {
 	height: 475px;
@@ -2318,7 +2337,7 @@ box-shadow: 1px 3px 11px #00000026;
     cursor: pointer;
     background: no-repeat;
     transition: .3s;
-    
+
 }
  .home-blog-active .slick-dots li.slick-active button {
 }
@@ -3535,11 +3554,11 @@ color: #f3525a;
 	font-weight: 500;
 }
 .gallery-image:hover figcaption {
-   opacity: 1;	
+   opacity: 1;
     bottom:30px;
 	-webkit-transition: all 0.3s ease 0s;
 	-o-transition: all 0.3s ease 0s;
-	transition: all 0.3s ease 0s;	
+	transition: all 0.3s ease 0s;
 
 }
 .gallery-image figcaption h4{
@@ -3698,7 +3717,7 @@ top: 121px;
 .has-mega-menu{
         position:static;
     }
-	 
+
     li.has-sub.has-mega-menu ul{
         position: absolute;
         top: NNpx; /*insert the needed value*/
@@ -3718,11 +3737,11 @@ top: 121px;
     /*flexbox fallback for browsers that do not support CSS GRID lyout*/
         display: flex;
         flex-wrap: wrap;
-    /*CSS GRID lyout*/ 
+    /*CSS GRID lyout*/
         display: grid;
-        grid-template-columns: repeat(auto-fit,minmax(25%, 1fr));   
+        grid-template-columns: repeat(auto-fit,minmax(25%, 1fr));
 		margin-left: -820px;
-		
+
     }
 	li.has-sub.has-mega-menu:hover>ul>li>ul{
     /*flexbox fallback for browsers that do not support CSS GRID lyout*/
@@ -3730,8 +3749,8 @@ top: 121px;
         flex-wrap: wrap;
 width: auto;
 background:none;
-    /*CSS GRID lyout*/ 
-        display: grid;       
+    /*CSS GRID lyout*/
+        display: grid;
 		position: relative;
 border: none;
 margin-left:0;
@@ -6186,7 +6205,7 @@ p.checkout-coupon input[type="text"] {
 }
 
 
-/*** 
+/***
 
 ====================================================================
 		Service Detail
@@ -6285,7 +6304,7 @@ p.checkout-coupon input[type="text"] {
 
 .service-detail .prod-tabs .tab-btns{
 	position:relative;
-	z-index:1;	
+	z-index:1;
 	border-bottom:1px solid #dddddd;
 }
 
@@ -6368,7 +6387,7 @@ p.checkout-coupon input[type="text"] {
 }
 
 .service-detail .prod-tabs .tabs-content .tab.active-tab{
-	display:block;	
+	display:block;
 }
 
 .service-detail .prod-tabs .tabs-content .tab .content{
@@ -6407,7 +6426,7 @@ p.checkout-coupon input[type="text"] {
     font-family: "Font Awesome 5 Pro";
 }
 
-/*** 
+/***
 
 ====================================================================
 		Project Detail
@@ -6424,7 +6443,7 @@ p.checkout-coupon input[type="text"] {
 .project-detail .upper-box{
 	position: relative;
 	margin-bottom: 40px;
-} 
+}
 
 .project-detail .upper-box .image{
 	position: relative;
@@ -6685,7 +6704,7 @@ p.checkout-coupon input[type="text"] {
     height: calc(1.5em + .75rem + 10px);
     width: 100% !important;
     border-radius: 30px !important;
-    
+
 }
 .newslater .form-group{
     margin-bottom: 0;

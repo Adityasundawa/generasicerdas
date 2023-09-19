@@ -22,7 +22,7 @@
                        <center>       <img src="{{ url('') }}/assets/img/cgi/presentase.png"></center>
                        <div class="single-counter">
                         <div class="counter p-relative text-center">
-                            <div class="count-rp">Rp.</div><span class="count">76,000,000</span><small>+</small>
+                            <div class="count-rp">Rp.</div><span class="count-dana">76,000,000</span><small>+</small>
                         </div>
                     </div>
                         </div>
