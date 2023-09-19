@@ -6,9 +6,9 @@
     <div class="container">
 
         <div class="row">
-            <div class="col-lg-12 justify-content-center">
+            {{-- <div class="col-lg-12 justify-content-center">
                 <img src="{{url('/')}}/assets/img/direktur/struktur_direktur.png" class="img" alt="" srcset="">
-            </div>
+            </div> --}}
             <div class="col-lg-4 col-md-6">
                 <div class="single-team text-center mb-30 ">
                     <div class="team-thumb">
