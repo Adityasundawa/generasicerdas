@@ -20,7 +20,9 @@ Route::get('/', [GenerasiCerdasController::class, 'beranda'])->name('dashboard.b
 Route::get('tentang-kami', [GenerasiCerdasController::class, 'tentangKami'])->name('dashboard.tentangkami');
 Route::get('tentang-kami/history', [GenerasiCerdasController::class, 'history'])->name('dashboard.history');
 Route::get('tentang-kami/visi-misi', [GenerasiCerdasController::class, 'visiMisi'])->name('dashboard.visimisi');
-Route::get('tentang-kami/profile-founder', [GenerasiCerdasController::class, 'profileFounder'])->name('dashboard.profilefounder');
+// Route::get('tentang-kami/profile-founder', [GenerasiCerdasController::class, 'profileFounder'])->name('dashboard.profilefounder');
+Route::get('tentang-kami/struktur-organisasi', [GenerasiCerdasController::class, 'profileFounder'])->name('dashboard.struktur-organisasi');
+
 
 Route::get('program', [GenerasiCerdasController::class, 'program'])->name('dashboard.program');
 Route::get('program/peta-dampak', [GenerasiCerdasController::class, 'petaDampak'])->name('dashboard.petadampak');

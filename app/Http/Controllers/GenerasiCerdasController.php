@@ -33,7 +33,8 @@ class GenerasiCerdasController extends Controller
 
     public function profileFounder()
     {
-        $data['title'] = 'Profil Pendiri';
+        $data['title'] = 'Struktur Organisasi';
+        // $data['title'] = 'Profil Pendiri';
         return view('public.tentang-kami.profile-founder', $data);
     }
 

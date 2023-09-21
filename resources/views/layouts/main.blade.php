@@ -73,8 +73,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-8">
                             <div class="section-title">
-                                <h2> Tidak ada kekuatan yang lebih besar dalam membangun kedaulatan bangsa daripada pengetahuan yang diperoleh melalui pendidikan.</h2>
-
+                                <h5 style="color: white"> Tidak ada kekuatan yang lebih besar dalam membangun kedaulatan bangsa daripada pengetahuan yang diperoleh melalui pendidikan.</h5>
                             </div>
                         </div>
                          <div class="col-lg-4">

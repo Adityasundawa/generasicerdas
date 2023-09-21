@@ -48,7 +48,8 @@
                                         <ul>
                                             <li><a href="{{ route('dashboard.history') }}">History</a></li>
                                             <li><a href="{{ route('dashboard.visimisi') }}">Visi Misi</a></li>
-                                            <li><a href="{{ route('dashboard.profilefounder') }}">Profile Founder</a></li>
+                                            {{-- <li><a href="{{ route('dashboard.profilefounder') }}">Profile Founder</a></li> --}}
+                                            <li><a href="{{ route('dashboard.struktur-organisasi') }}">Struktur Organisasi</a></li>
                                         </ul>
                                     </li>
                                     <li class="has-sub">
