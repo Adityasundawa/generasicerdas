@@ -10,24 +10,28 @@ class GenerasiCerdasController extends Controller
     public function beranda()
     {
         $data['title'] = 'Beranda';
+        $data['gambar'] = 'beranda.jpg';
         return view('public.beranda', $data);
     }
 
     public function tentangKami()
     {
         $data['title'] = 'Tentang Kami';
+        $data['gambar'] = 'tentang.jpg';
         return view('public.tentang-kami.index', $data);
     }
 
     public function history()
     {
         $data['title'] = 'Sejarah';
+        $data['gambar'] = 'tentang.jpg';
         return view('public.tentang-kami.history', $data);
     }
 
     public function visiMisi()
     {
         $data['title'] = 'Visi & Misi';
+        $data['gambar'] = 'tentang.jpg';
         return view('public.tentang-kami.visi-misi', $data);
     }
 
@@ -35,30 +39,35 @@ class GenerasiCerdasController extends Controller
     {
         $data['title'] = 'Struktur Organisasi';
         // $data['title'] = 'Profil Pendiri';
+        $data['gambar'] = 'tentang.jpg';
         return view('public.tentang-kami.profile-founder', $data);
     }
 
     public function program()
     {
         $data['title'] = 'Program Kami';
+        $data['gambar'] = 'program.jpg';
         return view('public.program.index', $data);
     }
 
     public function petaDampak()
     {
         $data['title'] = 'Peta Dampak';
+        $data['gambar'] = 'program.jpg';
         return view('public.program.peta-dampak', $data);
     }
 
     public function relawan()
     {
         $data['title'] = 'Relawan';
+        $data['gambar'] = 'relawan.jpg';
         return view('public.relawan.index', $data);
     }
 
     public function daftarRelawan()
     {
         $data['title'] = 'Daftar Relawan';
+        $data['gambar'] = 'relawan.jpg';
         $data['relawan'] = Relawan::where('role','Relawan')->get();
         return view('public.relawan.daftar', $data);
     }
@@ -66,24 +75,28 @@ class GenerasiCerdasController extends Controller
     public function registrasi()
     {
         $data['title'] = 'Registrasi';
+        $data['gambar'] = 'relawan.jpg';
         return view('public.relawan.registrasi', $data);
     }
 
     public function partner()
     {
         $data['title'] = 'Partner';
+        $data['gambar'] = 'partner.jpg';
         return view('public.partner.index', $data);
     }
 
     public function logoPTCSR()
     {
         $data['title'] = 'Daftar Donatur (Badan)';
+           $data['gambar'] = 'partner.jpg';
         return view('public.partner.logo-pt-csr', $data);
     }
 
     public function daftarDonatur()
     {
         $data['title'] = 'Daftar Donatur (Perorangan)';
+        $data['gambar'] = 'partner.jpg';
         $data['donatur'] = Relawan::where('role','donatur')->get();
         return view('public.partner.daftar-donatur', $data);
     }
@@ -91,12 +104,14 @@ class GenerasiCerdasController extends Controller
     public function countDana()
     {
         $data['title'] = 'Penghitungan Dana';
+        $data['gambar'] = 'partner.jpg';
         return view('public.partner.count-dana', $data);
     }
 
     public function hubungiKami()
     {
         $data['title'] = 'Hubungi Kami';
+        $data['gambar'] = 'hubungi.jpg';
         return view('public.hubungi-kami', $data);
     }
     public function store(Request $request)

@@ -5,7 +5,7 @@
     <section id="home" class="slider-area fix p-relative">
         <div class="">
             <div class="single-slider slider-bg d-flex"
-                style="background-image:url(https://storage.googleapis.com/ind-mengajar/images/slide/rekrutmen-pm-26.jpg?ver=20230913)">
+                style="background-image:url({{url('/')}}/assets/img/breadcrumb/beranda.jpg)">
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-12">

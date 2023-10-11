@@ -1,4 +1,4 @@
-<section class="breadcrumb-area d-flex align-items-center" style="background-image:url(https://storage.googleapis.com/ind-mengajar/images/slide/rekrutmen-pm-26.jpg?ver=20230913);">
+<section class="breadcrumb-area d-flex align-items-center" style="background-image:url({{url('/')}}/assets/img/breadcrumb/{{$gambar}});">
     <div class="container">
         <div class="row">
             <div class="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2">
