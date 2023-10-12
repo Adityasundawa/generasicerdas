@@ -947,7 +947,7 @@
         var bogor = '<div class="row"><div class="col-12"><img src="{{ url('/') }}/assets/' +
             'img/petadampak/2.jpg' + '" class="' + 'img' +
             '"  width="80px" height="80px" /></div></div>';
-        L.marker([-6.570289, 106.775750]).bindPopup(bogor).addTo(cities);
+        L.marker([-6.593838394360342, 106.86446714148974]).bindPopup(bogor).addTo(cities);
 
         var depok = '<div class="row"><div class="col-12"><img src="{{ url('/') }}/assets/' +
             'img/petadampak/3.jpg' + '" class="' + 'img' +
