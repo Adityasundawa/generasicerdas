@@ -75,6 +75,808 @@
                             </figure>
                         </a>
                     </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (1).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (1).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (2).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (2).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (3).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (3).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (4).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (4).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (5).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (5).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (6).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (6).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (7).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (7).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (8).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (8).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (9).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (9).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (10).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (10).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (11).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (11).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (12).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (12).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (13).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (13).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (14).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (14).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (15).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (15).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (16).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (16).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (17).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (17).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (18).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (18).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (19).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (19).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (20).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (21).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (21).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (22).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (22).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (23).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (23).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (24).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (24).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (25).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (25).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (26).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (26).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (27).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (27).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (28).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (28).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (29).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (29).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (30).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (30).jpeg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+                    <div class="grid-item jakarta bogor" style="position: absolute; left: 33.3333%; top: 0px;">
+                        <a href="projects-detail.html">
+                            <figure class="gallery-image">
+                                <img src="{{ url('/') }}/assets/img/petadampak/bogor/bogor (31).jpg" alt="img" class="img">
+                                <figcaption>
+                                    <div class="icon">+</div>
+                                    <span>bogor</span>
+                                    <h4></h4>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+
+
+
                     <div class="grid-item depok" style="position: absolute; left: 66.6667%; top: 0px;">
                         <a href="projects-detail.html">
                             <figure class="gallery-image">
