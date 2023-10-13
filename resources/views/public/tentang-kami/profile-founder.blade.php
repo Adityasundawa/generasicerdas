@@ -258,7 +258,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6">
+                {{-- <div class="col-lg-4 col-md-6">
                     <div class="single-team text-center mb-30 ">
                         <div class="team-thumb">
                             <div class="brd">
@@ -268,7 +268,7 @@
                         </div>
                         <div class="team-info">
                             <h4>Pandu Damar Wicaksono</h4>
-                            <span>Pengajar</span>
+                            <span>Chief Digital Marketing</span>
                             <div class="team-social mt-15">
                                 <p><strong>Minat Bakat:</strong> <br>Matematika,Bahasa Inggris,Bahasa Jawa</p>
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -277,7 +277,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
 
 
                 <div class="col-lg-4 col-md-6">
@@ -290,7 +290,7 @@
                         </div>
                         <div class="team-info">
                             <h4>Latasha Kirsty Wijaya</h4>
-                            <span>Pengajar</span>
+                            <span>Chief Fund Raising</span>
                             <div class="team-social mt-15">
                                 <p><strong>Minat Bakat:</strong> <br>Matematika,Bahasa Inggris,Bahasa Indonesia</p>
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -311,7 +311,7 @@
                         </div>
                         <div class="team-info">
                             <h4>Raddo Resgian </h4>
-                            <span>Cief Operation Officer</span>
+                            <span>Chief Operation Officer</span>
                             <div class="team-social mt-15">
                                 <p><strong>Minat Bakat:</strong> <br>Matematika,Bahasa Inggris,Ilmu Pengetahuan Alam</p>
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -332,7 +332,7 @@
                         </div>
                         <div class="team-info">
                             <h4>Fei Yozael                            </h4>
-                            <span>Vice Chief</span>
+                            <span>Vice Chief Operation Officer</span>
                             <div class="team-social mt-15">
                                 <p><strong>Minat Bakat:</strong> <br>Matematika,Bahasa Inggris,Ilmu Pengetahuan Alam</p>
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -353,7 +353,7 @@
                         </div>
                         <div class="team-info">
                             <h4>Eilada Aruneendria</h4>
-                            <span>Cief People Development</span>
+                            <span>Chief People Development</span>
                             <div class="team-social mt-15">
                                 <p><strong>Minat Bakat:</strong> <br>Matematika,Bahasa Inggris,Ilmu Pengetahuan Alam</p>
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -374,7 +374,7 @@
                         </div>
                         <div class="team-info">
                             <h4>Kyrabelle Pribadi                            </h4>
-                            <span>Vice Chief</span>
+                            <span>Vice Chief People Development</span>
                             <div class="team-social mt-15">
                                 <p><strong>Minat Bakat:</strong> <br>Matematika,Bahasa Inggris,Ilmu Pengetahuan Alam</p>
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -437,7 +437,7 @@
                         </div>
                         <div class="team-info">
                             <h4>Angeline Desidea K                            </h4>
-                            <span>Vice Chief</span>
+                            <span>Vice Chief Angeline Desidea K </span>
                             <div class="team-social mt-15">
                                 <p><strong>Minat Bakat:</strong> <br>Matematika,Bahasa Inggris,Ilmu Pengetahuan Alam</p>
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -480,7 +480,7 @@
                         </div>
                         <div class="team-info">
                             <h4>Justin Thorup                            </h4>
-                            <span>        Vice Chief</span>
+                            <span>        Vice Chief Digital Marketing</span>
                             <div class="team-social mt-15">
                                 <p><strong>Minat Bakat:</strong> <br>Matematika,Bahasa Inggris,Ilmu Pengetahuan Alam</p>
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -502,7 +502,7 @@
                         </div>
                         <div class="team-info">
                             <h4>Keiko                          </h4>
-                            <span>        Vice Chief</span>
+                            <span>        Vice Chief Digital Marketing</span>
                             <div class="team-social mt-15">
                                 <p><strong>Minat Bakat:</strong> <br>Matematika,Bahasa Inggris,Ilmu Pengetahuan Alam</p>
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>

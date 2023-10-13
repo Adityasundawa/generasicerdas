@@ -11,7 +11,6 @@
                     alt="" srcset="">
                 <h2>Target jangkauan dan dampak kerja Generasi Cerdas Indonesia</h2>
             </div>
-
         </div>
     </section>
     <section id="about" class="about-area about-p pt-100 pb-160 p-relative">
