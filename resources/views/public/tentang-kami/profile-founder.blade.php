@@ -258,7 +258,7 @@
                     </div>
                 </div>
 
-                {{-- <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="single-team text-center mb-30 ">
                         <div class="team-thumb">
                             <div class="brd">
@@ -277,7 +277,7 @@
                             </div>
                         </div>
                     </div>
-                </div> --}}
+                </div>
 
 
                 <div class="col-lg-4 col-md-6">
